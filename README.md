@@ -2,7 +2,7 @@
 
 ![Notion block for Harvest Screenshot](https://i.imgur.com/SlGBtYY.png)
 
-A simple web page that displays a weekly report from Harvest, styled to blend in as a Notion "embed" block.
+A simple web page that displays a weekly report from Harvest, styled to blend in as a Notion "embed" block. This project is mostly a small internal experiment at [Sharpmind](https://sharpmind.se) - i.e. don't expect any future work ✌️.
 
 ## Installation
 
